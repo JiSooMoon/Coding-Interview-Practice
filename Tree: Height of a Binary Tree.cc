@@ -60,3 +60,16 @@ class Node {
     }
 
 }; //End of Solution
+
+
+/*
+
+Input: 
+
+5
+3 1 7 5 4
+
+Output:
+3
+
+*/
